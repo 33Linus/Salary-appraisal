@@ -1,0 +1,7 @@
+emp_id,name,designation,updated_salary,doj,age,department,experience
+1000,Sunil,Developer,40000.0,2017-08-18,29,Development,5.0
+1001,Anil,Developer,61200.0,2015-05-08,40,Development,7.0
+1003,Suma,HR,54000.0,2020-06-13,35,Human Resource,2.0
+1004,Shankar,manager,77350.0,2010-02-04,52,Development,13.0
+1005,Sharan,Sales executive,32400.000000000004,2019-10-16,33,Sales,3.0
+1006,Suresh,Tester,25000.0,2021-11-02,24,QC,1.0
